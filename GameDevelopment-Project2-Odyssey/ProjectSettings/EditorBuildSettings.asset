@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0. Main Menu.unity
+    guid: 6d0da7514f6e64552b543c71e3ade7a5
+  - enabled: 1
+    path: Assets/Scenes/1. Intro Story.unity
+    guid: 345ee422f2c294a1abe5f7d1814d37fa
+  - enabled: 1
+    path: Assets/Scenes/2. Dream Story.unity
+    guid: 485caccac523541ad96a0c75eb1681d6
+  - enabled: 1
+    path: Assets/Scenes/3. Chapter 1 Story before Tutorial.unity
+    guid: 4edc968e04ad04b4eb19771485415d04
+  - enabled: 1
+    path: Assets/Scenes/4. Tutorial Level.unity
+    guid: e316f366dc85045b286ddc48da758e5f
+  - enabled: 1
+    path: Assets/Scenes/5. Chapter 2 Story before Level 1.unity
+    guid: fd83ecb830c144acebe49a9d7602a179
+  - enabled: 1
+    path: Assets/Scenes/6. Level 1.unity
+    guid: b390d6c82d6794be388e875d9b5ac9f8
+  - enabled: 1
+    path: Assets/Scenes/7. Game Over after Level 1.unity
+    guid: 0a318c422dcbd4ba49b432f73441584d
+  - enabled: 1
+    path: Assets/Scenes/8. Flashback Story.unity
+    guid: 27eec3ef1c9f34e92bddae375673cda8
+  - enabled: 1
+    path: Assets/Scenes/9. Chapter 3 Story before Level 2.unity
+    guid: a212a8c238d60427b82d58f6b3f41c3c
+  - enabled: 1
+    path: Assets/Scenes/10. Chapter 4 Story before Level 2.unity
+    guid: 629f4223c2117470080e42a30f1b5a4e
+  - enabled: 1
+    path: Assets/Scenes/11. Level 2.unity
+    guid: 67ebe1396abaf43c1945eea1f3ed1a6c
+  - enabled: 1
+    path: Assets/Scenes/12. Game Over after Level 2.unity
+    guid: 671252d3e510246b5832306978df47e5
+  - enabled: 1
+    path: Assets/Scenes/13. Chapter 5 Story before Level 3.unity
+    guid: 8e601245963fd42ad8e998d70369a9f2
+  - enabled: 1
+    path: Assets/Scenes/14. Level 3.unity
+    guid: 7b1c82cf86a2c4855ba273967946ba55
+  - enabled: 1
+    path: Assets/Scenes/15. Game Over after Level 3.unity
+    guid: 80c31d40a69bb435fbb210611eb45766
+  - enabled: 1
+    path: Assets/Scenes/16. Chapter 6 Story before Level 4.unity
+    guid: 6a04113ad978249d58fc1fbe0d28c9ea
+  - enabled: 1
+    path: Assets/Scenes/17. Chapter 7 Story before Level 4.unity
+    guid: 9a2cd601c2a8748139df2d68f942b0b1
+  - enabled: 1
+    path: Assets/Scenes/18. Level 4.unity
+    guid: 1fbf0084329714102827b33135934475
+  - enabled: 1
+    path: Assets/Scenes/19. Game Over after Level 4.unity
+    guid: af9e5fa293aac46d0ae3b1b4be3e0d1d
+  - enabled: 1
+    path: Assets/Scenes/20. Finale-A Story.unity
+    guid: 773861e8f37e3413481a9045cc6b87e3
+  - enabled: 1
+    path: Assets/Scenes/21. Finale-B Story.unity
+    guid: bac12019134224f608cd79377757b448
+  - enabled: 1
+    path: Assets/Scenes/22. Finale-C Cutscene.unity
+    guid: cdba4905210454b4f8077694012cb483
+  - enabled: 1
+    path: Assets/Scenes/23. End Credit.unity
+    guid: c1e27851f89874b61addad97eb3a0f3f
+  m_configObjects: {}

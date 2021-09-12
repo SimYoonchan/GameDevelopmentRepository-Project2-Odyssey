@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0be7d390060cd4de38fecd6207ca3704, type: 3}
+  m_Name: Asteroid Medium Path 0 Wave B
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 764554588301649807, guid: 8e2d4954355ea424fa4442b48d1b57cd,
+    type: 3}
+  pathPrefab: {fileID: 8211938672296073240, guid: e28671a6b58114bdcbd5fde4eac43c7d,
+    type: 3}
+  minTimeBetweenSpawns: 0.1
+  maxTimeBetweenSpawns: 0.5
+  numberOfEnemies: 1
+  moveSpeed: 22.5

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 840f2a567e2064cd59376d3986e0253b, type: 3}
+  m_Name: Health Bonus Very Frequent Wave B
+  m_EditorClassIdentifier: 
+  bonusesPrefab: {fileID: 659777823876191509, guid: b35e348c9d86d46148d902aa6132c9d4,
+    type: 3}
+  pathPrefab: {fileID: 7901038289678307490, guid: 165019d65bb994ba8bb833a5b35d0678,
+    type: 3}
+  minTimeBetweenSpawns: 2
+  maxTimeBetweenSpawns: 7
+  numberOfBonuses: 1
+  moveSpeed: 10

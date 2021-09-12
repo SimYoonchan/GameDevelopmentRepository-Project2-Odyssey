@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: efe8711a0347a4c0a914e72e9cca57ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MADE Future X
+  fontNames:
+  - MADE Future X
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8e9abc5a18e714420996312922b29b61, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

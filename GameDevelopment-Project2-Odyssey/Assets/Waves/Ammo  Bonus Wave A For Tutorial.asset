@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 840f2a567e2064cd59376d3986e0253b, type: 3}
+  m_Name: Ammo  Bonus Wave A For Tutorial
+  m_EditorClassIdentifier: 
+  bonusesPrefab: {fileID: 6270971427443653168, guid: d477d6de9ea9c481eafe107753286bcc,
+    type: 3}
+  pathPrefab: {fileID: 6521593254585296621, guid: 05123b8046cd947f797fa147422dd3e2,
+    type: 3}
+  minTimeBetweenSpawns: 2
+  maxTimeBetweenSpawns: 7
+  numberOfBonuses: 1
+  moveSpeed: 20
